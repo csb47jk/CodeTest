@@ -1,0 +1,43 @@
+alt +F2 =
+
+gnome - 目前的執行界面環境。
+
+sudo - Super User DO
+
+apt-get 
+
+man - manual 
+
+apt-get - aptitude 
+
+mkdir - make directory
+
+git clone http://github.com/csb47jk/CodeTest
+git clone http://github.com/<username>/<repository name>
+
+git add -i = 
+git commit -m 'description' 
+git push
+git pull , A+w  B+w B+p ,last
+git brach
+
+
+git config --global push.default matching
+
+
+install:
+
+sudo apt-get pip
+sudo pip install spyder 
+sudo apt-get install dropbox
+
+pwd = Path of current Working Directory
+sudo pip install django==1.7  
+
+ mysql -u root -p
+
+
+
+
+
+
